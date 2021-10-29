@@ -330,6 +330,90 @@
         link: Sport Milano
         platform: TG
         img: /img/tg.svg
+      - title: Telegram
+        lang: it
+        desc: Giuriati
+        link: https://t.me/joinchat/MdAdwamMF6w4M2Y0
+        platform: TG
+        img:
+      - title: Telegram
+        lang: en
+        desc: Giuriati
+        link: https://t.me/joinchat/MdAdwamMF6w4M2Y0
+        platform: TG
+        img:     
+      - title: Telegram
+        lang: it
+        desc: Team
+        link: https://t.me/joinchat/eCRLiqNiWMlmNmU0 
+        platform: TG
+        img:
+      - title: Telegram
+        lang: en
+        desc: Team
+        link: https://t.me/joinchat/eCRLiqNiWMlmNmU0
+        platform: TG
+        img:
+      - title: Telegram
+        lang: it
+        desc: Basket
+        link: https://t.me/joinchat/5BiyJoBNTf40OTBk
+        platform: TG
+        img:
+      - title: Telegram
+        lang: en
+        desc: Basket
+        link: https://t.me/joinchat/5BiyJoBNTf40OTBk
+        platform: TG
+        img:
+      - title: Telegram
+        lang: it
+        desc: Calcio
+        link: https://t.me/joinchat/KG2CNozDTGwzODJk
+        platform: TG
+        img:
+      - title: Telegram
+        lang: en
+        desc: Calcio
+        link: https://t.me/joinchat/KG2CNozDTGwzODJk
+        platform: TG
+        img:
+      - title: Telegram
+        lang: it
+        desc: Pallavolo
+        link: https://t.me/joinchat/RVuKIWtUkKtmNGZk
+        platform: TG
+        img:
+      - title: Telegram
+        lang: en
+        desc: Pallavolo
+        link: https://t.me/joinchat/RVuKIWtUkKtmNGZk
+        platform: TG
+        img:
+      - title: Telegram
+        lang: it
+        desc: Racket
+        link: https://t.me/joinchat/eUOnOo9YL_kwMTI0
+        platform: TG
+        img:
+      - title: Telegram
+        lang: en
+        desc: Racket
+        link: https://t.me/joinchat/eUOnOo9YL_kwMTI0
+        platform: TG
+        img:
+      - title: Telegram
+        lang: it
+        desc: Ping Pong
+        link: https://t.me/joinchat/CxG6qkt6Iw5mZmQ0
+        platform: TG
+        img:
+      - title: Telegram
+        lang: en
+        desc: Ping Pong
+        link: https://t.me/joinchat/CxG6qkt6Iw5mZmQ0
+        platform: TG
+        img:
   - Title: streetwear
     items:
       - link: Polimi Streetwear Club
