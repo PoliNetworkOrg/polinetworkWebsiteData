@@ -225,3 +225,15 @@ projects:
         buttons:
         - title: Vai al source di PoliDown
           link: https://github.com/sup3rgiu/PoliDown
+  - Title: MyPoliFile
+    items:
+      - title: Applicazione iOS
+        lang: it
+        desc: Clicca sul link sotto per andare all'App Store
+        link: https://apps.apple.com/no/app/mypolifile/id1585538793?l=it
+        img: /img/ios.png
+      - title: iOS Application
+        lang: en
+        desc: Click on the following link to go to the App Store
+        link: https://apps.apple.com/no/app/mypolifile/id1585538793?l=en
+        img: /img/ios.png
