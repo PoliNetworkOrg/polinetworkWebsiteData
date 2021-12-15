@@ -237,3 +237,15 @@ projects:
         desc: Click on the following link to go to the App Store
         link: https://apps.apple.com/no/app/mypolifile/id1585538793?l=en
         img: /img/ios.png
+  - Title: thetolproject
+    items:
+      - title: Sito Web
+        lang: it
+        desc: Una simulazione gratuita del test di ammissione per le aspiranti matricole di Ingegneria.
+        link: https://tol.polinetwork.org
+        img: /img/web.svg
+      - title: Website
+        lang: en
+        desc: A free admission test simulation for aspiring engineering freshmen.
+        link: https://tol.polinetwork.org
+        img: /img/web.svg
