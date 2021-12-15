@@ -241,11 +241,11 @@ projects:
     items:
       - title: Sito Web
         lang: it
-        desc: Una simulazione gratuita del test di ammissione per le aspiranti matricole di Ingegneria.
+        desc: Apri il sito (ottimizzato solo per dispositivi desktop)
         link: https://tol.polinetwork.org
         img: /img/web.svg
       - title: Website
         lang: en
-        desc: A free admission test simulation for aspiring engineering freshmen.
+        desc: Open the website (optimized for desktop devices only)
         link: https://tol.polinetwork.org
         img: /img/web.svg
