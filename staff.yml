@@ -5,8 +5,10 @@ staff:
     roles:
       - id: a
         nomination-date: 2020-09-14
+        expiration-date: 3000-01-01
       - id: b0
         nomination-date: 2020-09-14
+        expiration-date: 2022-11-07
   - name: Tecla Trifilò
     nickname: Teclilaa
     roles:
@@ -296,9 +298,9 @@ roles:
   - id: b1
     titles:
       - language: it
-        title: Delegato a "Eventi e patnership"
+        title: Delegato a "Eventi e partnership"
       - language: en
-        title: Delegate to events and patnership
+        title: Delegate to events and partnerships
   - id: b2
     titles:
       - language: it
