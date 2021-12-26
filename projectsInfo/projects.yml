@@ -171,7 +171,7 @@ projects:
         img: /img/win.png
         multiple_buttons: true
         buttons:
-        - title: Vai al source di PoliDL GUI
+        - title: Go to PoliDL GUI source
           link: https://github.com/yuyu-19/PoliDL-GUI
   - Title: Polidl
     divided: true
@@ -192,12 +192,12 @@ projects:
           link: https://github.com/sup3rgiu/PoliWebex
       - title: Every OS
         lang: en
-        desc: Follow the "readme.md" from source code
+        desc: Follow the readme from source code
         link: https://github.com/sup3rgiu/PoliWebex
         img: /img/os_agnostic.png
         multiple_buttons: true
         buttons:
-        - title: Vai al source di PoliWebex
+        - title: Go to PoliWebex source
           link: https://github.com/sup3rgiu/PoliWebex
   - Title: Polidl
     divided: true
@@ -218,34 +218,34 @@ projects:
           link: https://github.com/sup3rgiu/PoliDown
       - title: Every OS
         lang: en
-        desc: Follow the "readme.md" from source code
+        desc: Follow the readme from source code
         link: https://github.com/sup3rgiu/PoliDown
         img: /img/os_agnostic.png
         multiple_buttons: true
         buttons:
-        - title: Vai al source di PoliDown
+        - title: Go to PoliDown source
           link: https://github.com/sup3rgiu/PoliDown
   - Title: MyPoliFile
     items:
-      - title: Applicazione iOS
-        lang: it
-        desc: Clicca sul link sotto per andare all'App Store
-        link: https://apps.apple.com/no/app/mypolifile/id1585538793?l=it
-        img: /img/ios.png
-      - title: iOS Application
-        lang: en
-        desc: Click on the following link to go to the App Store
-        link: https://apps.apple.com/no/app/mypolifile/id1585538793?l=en
-        img: /img/ios.png
+        link: https://apps.apple.com/no/app/mypolifile/id1585538793
+        redirect: true
   - Title: thetolproject
     items:
-      - title: Sito Web
-        lang: it
-        desc: Apri il sito (ottimizzato solo per dispositivi desktop)
-        link: https://tol.polinetwork.org
-        img: /img/web.svg
-      - title: Website
-        lang: en
-        desc: Open the website (optimized for desktop devices only)
-        link: https://tol.polinetwork.org
-        img: /img/web.svg
+      - link: https://tol.polinetwork.org
+        redirect: true
+  - Title: Polimi Rankings
+    items:
+      - link: https://polinetwork.org/graduatorie
+        redirect: true
+  - Title: PoliNetwork Events
+    items:
+        link: https://polinetworkevents.github.io
+        redirect: true
+  - Title: PoliNetwork Elections Info
+    items:
+      - link: https://polinetworkelezioni.github.io
+        redirect: true
+  - Title: Exam Distribution Tool
+    items:
+      - link: https://github.com/PoliNetworkOrg/ExamDistributionTool
+        redirect: true
