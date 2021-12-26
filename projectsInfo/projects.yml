@@ -245,7 +245,7 @@ projects:
     items:
       - link: https://polinetworkelezioni.github.io
         redirect: true
-  - Title: Exam Distribution Tool 
+  - Title: Exam Distribution Tool
     items:
       - link: https://github.com/PoliNetworkOrg/ExamDistributionTool
         redirect: true
