@@ -111,7 +111,7 @@ staff:
     roles:
       - id: c1
         nomination-date: 2020-12-02
-        expiration-date: 2020-12-01
+        expiration-date: 2021-12-02
   - name: Veronica Marrocu
     nickname: myosotiss67
     roles:
