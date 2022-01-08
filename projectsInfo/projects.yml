@@ -249,3 +249,7 @@ projects:
     items:
       - link: https://github.com/PoliNetworkOrg/ExamDistributionTool
         redirect: true
+  - Title: PoliAuthenticator
+    items:
+      - link: https://github.com/PoliAuth/PoliAuthenticator
+        redirect: true
