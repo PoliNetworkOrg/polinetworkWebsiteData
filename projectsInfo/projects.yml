@@ -15,7 +15,7 @@ projects:
           link: https://github.com/yuyu-19/PoliDL-GUI
         - title: Vai al source di PoliDL GUI
           link: https://github.com/yuyu-19/PoliDL-GUI
-  - Title: Polibeepsync
+  - Title: polibeepsync
     items:
       - title: Windows
         lang: it
@@ -89,27 +89,27 @@ projects:
         buttons:
         - title: See source
           link: https://github.com/Jacotsu/polibeepsync/
-  - Title: Convertitoreorario
+  - Title: convertitoreorario
     items:
       - link: https://bebora.github.io/polimi-schedule-js/
         redirect: true
-  - Title: Beep_updates
+  - Title: beep_updates
     items:
       - link: https://github.com/fillics/beep_updates
         redirect: true
-  - Title: Polimi Schedule
+  - Title: polimi-schedule
     items:
       - link: https://github.com/jacopo-j/polimi-schedule
         redirect: true
-  - Title: Tdemerger
+  - Title: tdemerger
     items:
       - link: https://github.com/federicomor/tdemerger
         redirect: true
-  - Title: Polinetworkbot
+  - Title: polinetworkbot
     items:
       - link: https://github.com/PoliNetworkOrg/PoliNetworkBot_CSharp
         redirect: true
-  - Title: Questo_sito
+  - Title: questo_sito
     items:
       - link: https://github.com/PoliNetwork/polinetwork.github.io
         redirect: true
@@ -145,7 +145,7 @@ projects:
         desc: You can find the code in the following link
         link: https://github.com/PoliNetworkOrg/CiscoWebexHelper
         img: /img/pc.svg
-  - Title: Webexdownloader
+  - Title: webexdownloader
     items:
       - link: https://github.com/jacopo-j/webxdownloader
         redirect: true
@@ -173,7 +173,7 @@ projects:
         buttons:
         - title: Go to PoliDL GUI source
           link: https://github.com/yuyu-19/PoliDL-GUI
-  - Title: Polidl
+  - Title: polidl
     divided: true
     dividers:
       - name: Versione per terminale solo per "Cisco Webex"
@@ -199,7 +199,7 @@ projects:
         buttons:
         - title: Go to PoliWebex source
           link: https://github.com/sup3rgiu/PoliWebex
-  - Title: Polidl
+  - Title: polidl
     divided: true
     dividers:
       - name: Versione per terminale solo per "Microsoft Stream"
@@ -225,7 +225,7 @@ projects:
         buttons:
         - title: Go to PoliDown source
           link: https://github.com/sup3rgiu/PoliDown
-  - Title: MyPoliFile
+  - Title: myPoliFile
     items:
         link: https://apps.apple.com/no/app/mypolifile/id1585538793
         redirect: true
@@ -233,19 +233,19 @@ projects:
     items:
       - link: https://tol.polinetwork.org
         redirect: true
-  - Title: Polimi Rankings
+  - Title: rankings
     items:
       - link: https://polinetwork.org/graduatorie
         redirect: true
-  - Title: PoliNetwork Events
+  - Title: events
     items:
         link: https://polinetworkevents.github.io
         redirect: true
-  - Title: PoliNetwork Elections Info
+  - Title: elections
     items:
       - link: https://polinetworkelezioni.github.io
         redirect: true
-  - Title: Exam Distribution Tool
+  - Title: examdisttool
     items:
       - link: https://github.com/PoliNetworkOrg/ExamDistributionTool
         redirect: true
