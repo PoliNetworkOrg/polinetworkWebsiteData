@@ -249,7 +249,111 @@ projects:
     items:
       - link: https://github.com/PoliNetworkOrg/ExamDistributionTool
         redirect: true
-  - Title: PoliAuthenticator
+  - Title: poliauth
     items:
-      - link: https://github.com/PoliAuth/PoliAuthenticator
-        redirect: true
+      - title: PoliAuth per Windows
+        lang: it
+        desc: Scarica l'installer, fai doppio click e aspetta che finisca. Ti dirà anche dove trovare il programma una volta installato. Puoi riavviare l'installer ogni tanto per ottenere sempre l'ultima versione
+        link: https://github.com/PoliAuth/PoliAuthInstaller/raw/main/distWin-x64/PoliAuth_Installer.exe
+        img: /img/win.png
+        multiple_buttons: true
+        buttons:
+        - title: Scarica Installer
+          link: https://github.com/PoliAuth/PoliAuthInstaller/raw/main/distWin-x64/PoliAuth_Installer.exe
+      - title: PoliAuth for Windows
+        lang: en
+        desc: Download the installer, double click and wait for it to finish. It will also tell you where to find the program once installed. You can restart the installer every once in a while to always get the latest version
+        link: https://github.com/PoliAuth/PoliAuthInstaller/raw/main/distWin-x64/PoliAuth_Installer.exe
+        img: /img/win.png
+        multiple_buttons: true
+        buttons:
+        - title: Download Installer
+          link: https://github.com/PoliAuth/PoliAuthInstaller/raw/main/distWin-x64/PoliAuth_Installer.exe
+  - Title: poliauth
+    divided: true
+    dividers:
+      - name: Estensioni per browser
+        lang: it
+      - name: Browser extensions
+        lang: en
+    items:
+      - title: Firefox
+        lang: it
+        desc: Semplicemente installa l'estensione dallo store
+        link: https://addons.mozilla.org/it/firefox/addon/poliauthenticator-webextension/
+        img: /img/firefox.png
+        multiple_buttons: true
+        buttons:
+        - title: Scarica Estensione
+          link: https://addons.mozilla.org/it/firefox/addon/poliauthenticator-webextension/
+      - title: Firefox
+        lang: en
+        desc: Just install the extension from the store
+        link: https://addons.mozilla.org/it/firefox/addon/poliauthenticator-webextension/
+        img: /img/firefox.png
+        multiple_buttons: true
+        buttons:
+        - title: Download Extension
+          link: https://addons.mozilla.org/it/firefox/addon/poliauthenticator-webextension/
+      - title: Chrome (e altri)
+        lang: it
+        desc: Scarica il file zip, estrailo e segui <a href="https://webkul.com/blog/how-to-install-the-unpacked-extension-in-chrome/">questa guida</a>, ricordati di non spostare la cartella una volta installata, altrimenti Chrome non la troverà più
+        link: https://github.com/PoliAuth/PoliAuthenticator/releases/latest/download/PoliAuthWebExtension.zip
+        img: /img/chrome.png
+        multiple_buttons: true
+        buttons:
+        - title: Scarica Estensione
+          link: https://github.com/PoliAuth/PoliAuthenticator/releases/latest/download/PoliAuthWebExtension.zip
+      - title: Chrome (& others)
+        lang: en
+        desc: Download the zip file, extract it and follow <a href="https://webkul.com/blog/how-to-install-the-unpacked-extension-in-chrome/s">this guide</a>, remember not to move the folder once installed, otherwise Chrome won't find it anymore
+        link: https://github.com/PoliAuth/PoliAuthenticator/releases/latest/download/PoliAuthWebExtension.zip
+        img: /img/chrome.png
+        multiple_buttons: true
+        buttons:
+        - title: Download Extension
+          link: https://github.com/PoliAuth/PoliAuthenticator/releases/latest/download/PoliAuthWebExtension.zip
+  - Title: poliauth
+    divided: true
+    dividers:
+      - name: Versioni per macOS e per Linux
+        lang: it
+      - name: macOS and Linux versions
+        lang: en
+    items:
+      - title: macOS
+        lang: it
+        desc: Scarica il file zip
+        link: https://github.com/PoliAuth/PoliAuthenticator/releases/latest/download/PoliAuthenticator_MacOS.zip
+        img: /img/mac.png
+        multiple_buttons: true
+        buttons:
+        - title: Scarica il programma
+          link: https://github.com/PoliAuth/PoliAuthenticator/releases/latest/download/PoliAuthenticator_MacOS.zip
+      - title: macOS
+        lang: en
+        desc: Download the zip file
+        link: https://github.com/PoliAuth/PoliAuthenticator/releases/latest/download/PoliAuthenticator_MacOS.zip
+        img: /img/mac.png
+        multiple_buttons: true
+        buttons:
+        - title: Download the program
+          link: https://github.com/PoliAuth/PoliAuthenticator/releases/latest/download/PoliAuthenticator_MacOS.zip
+      - title: Linux
+        lang: it
+        desc: Segui il readme dal source
+        link: https://github.com/PoliAuth/PoliAuthenticator/
+        img: /img/linux.png
+        multiple_buttons: true
+        buttons:
+        - title: Vai al source di PoliAuth
+          link: https://github.com/PoliAuth/PoliAuthenticator/
+      - title: Linux
+        lang: en
+        desc: Follow the readme from source code
+        link: https://github.com/PoliAuth/PoliAuthenticator/
+        img: /img/linux.png
+        multiple_buttons: true
+        buttons:
+        - title: Go to PoliAuth source
+          link: https://github.com/PoliAuth/PoliAuthenticator/
