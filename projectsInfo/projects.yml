@@ -357,3 +357,7 @@ projects:
         buttons:
         - title: Go to PoliAuth source
           link: https://github.com/PoliAuth/PoliAuthenticator/
+  - Title: materials
+    items:
+      - link: https://polinetwork.org/materials/
+        redirect: true
