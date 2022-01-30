@@ -361,3 +361,62 @@ projects:
     items:
       - link: https://polinetwork.org/materials/
         redirect: true
+  - Title: webeepsync
+    items:
+      - title: WeBeepSync per Windows
+        lang: it
+        desc: Scarica il file zip, estrai l'installer, fai doppio click e aspetta che finisca
+        link: https://github.com/toto04/webeep-sync/releases/latest/download/WeBeep.Sync.Windows.Setup.zip
+        img: /img/win.png
+        multiple_buttons: true
+        buttons:
+        - title: Scarica Installer
+          link: https://github.com/toto04/webeep-sync/releases/latest/download/WeBeep.Sync.Windows.Setup.zip
+      - title: PoliAuth for Windows
+        lang: en
+        desc: Download the zip file, extract the installer, double click and wait for it to finish
+        link: https://github.com/toto04/webeep-sync/releases/latest/download/WeBeep.Sync.Windows.Setup.zip
+        img: /img/win.png
+        multiple_buttons: true
+        buttons:
+        - title: Download Installer
+          link: https://github.com/toto04/webeep-sync/releases/latest/download/WeBeep.Sync.Windows.Setup.zip
+      - title: WeBeepSync per macOS
+        lang: it
+        desc: Scarica il file dmg dalla guida e seguila
+        link: https://github.com/toto04/webeep-sync#macOS
+        img: /img/mac.png
+        multiple_buttons: true
+        buttons:
+        - title: Vai alla guida
+          link: https://github.com/toto04/webeep-sync#macOS
+      - title: PoliAuth for macOS
+        lang: en
+        desc: Download the dmg file from the guide and follow it
+        link: https://github.com/toto04/webeep-sync#macOS-1
+        img: /img/mac.png
+        multiple_buttons: true
+        buttons:
+        - title: Go to guide
+          link: https://github.com/toto04/webeep-sync#macOS-1
+  - Title: webeepsync
+    divided: true
+    items:
+      - title: Linux e codice sorgente
+        lang: it
+        desc: Segui il readme dal source per installare su linux
+        link: https://github.com/toto04/webeep-sync
+        img: /img/linux.png
+        multiple_buttons: true
+        buttons:
+        - title: Vai al codice sorgente
+          link: https://github.com/toto04/webeep-sync
+      - title: Linux and source code
+        lang: en
+        desc: Follow the readme from source code to install on linux
+        link: https://github.com/toto04/webeep-sync
+        img: /img/linux.png
+        multiple_buttons: true
+        buttons:
+        - title: Go to source code
+          link: https://github.com/toto04/webeep-sync
