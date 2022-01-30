@@ -269,6 +269,45 @@ projects:
         buttons:
         - title: Download Installer
           link: https://github.com/PoliAuth/PoliAuthInstaller/raw/main/distWin-x64/PoliAuth_Installer.exe
+      - title: PoliAuth for macOS
+        lang: it
+        desc: Scarica il file zip
+        link: https://github.com/PoliAuth/PoliAuthenticator/releases/latest/download/PoliAuthenticator_MacOS.zip
+        img: /img/mac.png
+        multiple_buttons: true
+        buttons:
+        - title: Scarica il programma
+          link: https://github.com/PoliAuth/PoliAuthenticator/releases/latest/download/PoliAuthenticator_MacOS.zip
+      - title: PoliAuth per macOS
+        lang: en
+        desc: Download the zip file
+        link: https://github.com/PoliAuth/PoliAuthenticator/releases/latest/download/PoliAuthenticator_MacOS.zip
+        img: /img/mac.png
+        multiple_buttons: true
+        buttons:
+        - title: Download the program
+          link: https://github.com/PoliAuth/PoliAuthenticator/releases/latest/download/PoliAuthenticator_MacOS.zip
+  - Title: poliauth
+    divided: true
+    items:
+      - title: Linux e codice sorgente
+        lang: it
+        desc: Segui il readme dal source per installare su linux
+        link: https://github.com/PoliAuth/PoliAuthenticator/
+        img: /img/linux.png
+        multiple_buttons: true
+        buttons:
+        - title: Vai al codice sorgente
+          link: https://github.com/PoliAuth/PoliAuthenticator/
+      - title: Linux and source code
+        lang: en
+        desc: Follow the readme from source code to install on linux
+        link: https://github.com/PoliAuth/PoliAuthenticator/
+        img: /img/linux.png
+        multiple_buttons: true
+        buttons:
+        - title: Go to source code
+          link: https://github.com/PoliAuth/PoliAuthenticator/
   - Title: poliauth
     divided: true
     dividers:
@@ -313,50 +352,6 @@ projects:
         buttons:
         - title: Download Extension
           link: https://github.com/PoliAuth/PoliAuthenticator/releases/latest/download/PoliAuthWebExtension.zip
-  - Title: poliauth
-    divided: true
-    dividers:
-      - name: Versioni per macOS e per Linux
-        lang: it
-      - name: macOS and Linux versions
-        lang: en
-    items:
-      - title: macOS
-        lang: it
-        desc: Scarica il file zip
-        link: https://github.com/PoliAuth/PoliAuthenticator/releases/latest/download/PoliAuthenticator_MacOS.zip
-        img: /img/mac.png
-        multiple_buttons: true
-        buttons:
-        - title: Scarica il programma
-          link: https://github.com/PoliAuth/PoliAuthenticator/releases/latest/download/PoliAuthenticator_MacOS.zip
-      - title: macOS
-        lang: en
-        desc: Download the zip file
-        link: https://github.com/PoliAuth/PoliAuthenticator/releases/latest/download/PoliAuthenticator_MacOS.zip
-        img: /img/mac.png
-        multiple_buttons: true
-        buttons:
-        - title: Download the program
-          link: https://github.com/PoliAuth/PoliAuthenticator/releases/latest/download/PoliAuthenticator_MacOS.zip
-      - title: Linux
-        lang: it
-        desc: Segui il readme dal source
-        link: https://github.com/PoliAuth/PoliAuthenticator/
-        img: /img/linux.png
-        multiple_buttons: true
-        buttons:
-        - title: Vai al source di PoliAuth
-          link: https://github.com/PoliAuth/PoliAuthenticator/
-      - title: Linux
-        lang: en
-        desc: Follow the readme from source code
-        link: https://github.com/PoliAuth/PoliAuthenticator/
-        img: /img/linux.png
-        multiple_buttons: true
-        buttons:
-        - title: Go to PoliAuth source
-          link: https://github.com/PoliAuth/PoliAuthenticator/
   - Title: materials
     items:
       - link: https://polinetwork.org/materials/
