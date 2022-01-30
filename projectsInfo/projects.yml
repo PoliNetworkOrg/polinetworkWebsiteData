@@ -337,21 +337,21 @@ projects:
       - title: Chrome (e altri)
         lang: it
         desc: Scarica il file zip, estrailo e segui <a href="https://webkul.com/blog/how-to-install-the-unpacked-extension-in-chrome/">questa guida</a>, ricordati di non spostare la cartella una volta installata, altrimenti Chrome non la troverà più
-        link: https://github.com/PoliAuth/PoliAuthenticator/releases/latest/download/PoliAuthWebExtension.zip
+        link: https://github.com/PoliAuth/PoliAuthenticator/releases/latest/download/WebExtension.zip
         img: /img/chrome.png
         multiple_buttons: true
         buttons:
         - title: Scarica Estensione
-          link: https://github.com/PoliAuth/PoliAuthenticator/releases/latest/download/PoliAuthWebExtension.zip
+          link: https://github.com/PoliAuth/PoliAuthenticator/releases/latest/download/WebExtension.zip
       - title: Chrome (& others)
         lang: en
         desc: Download the zip file, extract it and follow <a href="https://webkul.com/blog/how-to-install-the-unpacked-extension-in-chrome/s">this guide</a>, remember not to move the folder once installed, otherwise Chrome won't find it anymore
-        link: https://github.com/PoliAuth/PoliAuthenticator/releases/latest/download/PoliAuthWebExtension.zip
+        link: https://github.com/PoliAuth/PoliAuthenticator/releases/latest/download/WebExtension.zip
         img: /img/chrome.png
         multiple_buttons: true
         buttons:
         - title: Download Extension
-          link: https://github.com/PoliAuth/PoliAuthenticator/releases/latest/download/PoliAuthWebExtension.zip
+          link: https://github.com/PoliAuth/PoliAuthenticator/releases/latest/download/WebExtension.zip
   - Title: materials
     items:
       - link: https://polinetwork.org/materials/
