@@ -345,7 +345,7 @@ projects:
           link: https://github.com/PoliAuth/PoliAuthenticator/releases/latest/download/WebExtension.zip
       - title: Chrome (& others)
         lang: en
-        desc: Download the zip file, extract it and follow <a href="https://webkul.com/blog/how-to-install-the-unpacked-extension-in-chrome/s">this guide</a>, remember not to move the folder once installed, otherwise Chrome won't find it anymore
+        desc: Download the zip file, extract it and follow <a href="https://webkul.com/blog/how-to-install-the-unpacked-extension-in-chrome/">this guide</a>, remember not to move the folder once installed, otherwise Chrome won't find it anymore
         link: https://github.com/PoliAuth/PoliAuthenticator/releases/latest/download/WebExtension.zip
         img: /img/chrome.png
         multiple_buttons: true
@@ -367,7 +367,7 @@ projects:
         buttons:
         - title: Scarica Installer
           link: https://github.com/toto04/webeep-sync/releases/latest/download/WeBeep.Sync.Windows.Setup.zip
-      - title: PoliAuth for Windows
+      - title: WeBeepSync for Windows
         lang: en
         desc: Download the zip file, extract the installer, double click and wait for it to finish
         link: https://github.com/toto04/webeep-sync/releases/latest/download/WeBeep.Sync.Windows.Setup.zip
@@ -385,7 +385,7 @@ projects:
         buttons:
         - title: Vai alla guida
           link: https://github.com/toto04/webeep-sync#macOS
-      - title: PoliAuth for macOS
+      - title: WeBeepSync for macOS
         lang: en
         desc: Download the dmg file from the guide and follow it
         link: https://github.com/toto04/webeep-sync#macOS-1
