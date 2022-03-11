@@ -15,7 +15,7 @@ projects:
           link: https://github.com/yuyu-19/PoliDL-GUI
         - title: Vai al source di PoliDL GUI
           link: https://github.com/yuyu-19/PoliDL-GUI
-  - Title: Polibeepsync
+  - Title: polibeepsync
     items:
       - title: Windows
         lang: it
@@ -89,27 +89,27 @@ projects:
         buttons:
         - title: See source
           link: https://github.com/Jacotsu/polibeepsync/
-  - Title: Convertitoreorario
+  - Title: convertitoreorario
     items:
       - link: https://bebora.github.io/polimi-schedule-js/
         redirect: true
-  - Title: Beep_updates
+  - Title: beep_updates
     items:
       - link: https://github.com/fillics/beep_updates
         redirect: true
-  - Title: Polimi Schedule
+  - Title: polimi-schedule
     items:
       - link: https://github.com/jacopo-j/polimi-schedule
         redirect: true
-  - Title: Tdemerger
+  - Title: tdemerger
     items:
       - link: https://github.com/federicomor/tdemerger
         redirect: true
-  - Title: Polinetworkbot
+  - Title: polinetworkbot
     items:
       - link: https://github.com/PoliNetworkOrg/PoliNetworkBot_CSharp
         redirect: true
-  - Title: Questo_sito
+  - Title: questo_sito
     items:
       - link: https://github.com/PoliNetwork/polinetwork.github.io
         redirect: true
@@ -145,7 +145,7 @@ projects:
         desc: You can find the code in the following link
         link: https://github.com/PoliNetworkOrg/CiscoWebexHelper
         img: /img/pc.svg
-  - Title: Webexdownloader
+  - Title: webexdownloader
     items:
       - link: https://github.com/jacopo-j/webxdownloader
         redirect: true
@@ -173,7 +173,7 @@ projects:
         buttons:
         - title: Go to PoliDL GUI source
           link: https://github.com/yuyu-19/PoliDL-GUI
-  - Title: Polidl
+  - Title: polidl
     divided: true
     dividers:
       - name: Versione per terminale solo per "Cisco Webex"
@@ -199,7 +199,7 @@ projects:
         buttons:
         - title: Go to PoliWebex source
           link: https://github.com/sup3rgiu/PoliWebex
-  - Title: Polidl
+  - Title: polidl
     divided: true
     dividers:
       - name: Versione per terminale solo per "Microsoft Stream"
@@ -225,7 +225,7 @@ projects:
         buttons:
         - title: Go to PoliDown source
           link: https://github.com/sup3rgiu/PoliDown
-  - Title: MyPoliFile
+  - Title: myPoliFile
     items:
         link: https://apps.apple.com/no/app/mypolifile/id1585538793
         redirect: true
@@ -233,23 +233,185 @@ projects:
     items:
       - link: https://tol.polinetwork.org
         redirect: true
-  - Title: Polimi Rankings
+  - Title: rankings
     items:
       - link: https://polinetwork.org/graduatorie
         redirect: true
-  - Title: PoliNetwork Events
+  - Title: events
     items:
         link: https://polinetworkevents.github.io
         redirect: true
-  - Title: PoliNetwork Elections Info
+  - Title: elections
     items:
       - link: https://polinetworkelezioni.github.io
         redirect: true
-  - Title: Exam Distribution Tool
+  - Title: examdisttool
     items:
       - link: https://github.com/PoliNetworkOrg/ExamDistributionTool
         redirect: true
-  - Title: PoliAuthenticator
+  - Title: poliauth
     items:
-      - link: https://github.com/PoliAuth/PoliAuthenticator
+      - title: PoliAuth per Windows
+        lang: it
+        desc: Scarica l'installer, fai doppio click e aspetta che finisca. Ti dirà anche dove trovare il programma una volta installato. Puoi riavviare l'installer ogni tanto per ottenere sempre l'ultima versione
+        link: https://github.com/PoliAuth/PoliAuthInstaller/raw/main/distWin-x64/PoliAuth_Installer.exe
+        img: /img/win.png
+        multiple_buttons: true
+        buttons:
+        - title: Scarica Installer
+          link: https://github.com/PoliAuth/PoliAuthInstaller/raw/main/distWin-x64/PoliAuth_Installer.exe
+      - title: PoliAuth for Windows
+        lang: en
+        desc: Download the installer, double click and wait for it to finish. It will also tell you where to find the program once installed. You can restart the installer every once in a while to always get the latest version
+        link: https://github.com/PoliAuth/PoliAuthInstaller/raw/main/distWin-x64/PoliAuth_Installer.exe
+        img: /img/win.png
+        multiple_buttons: true
+        buttons:
+        - title: Download Installer
+          link: https://github.com/PoliAuth/PoliAuthInstaller/raw/main/distWin-x64/PoliAuth_Installer.exe
+      - title: PoliAuth for macOS
+        lang: it
+        desc: Scarica il file zip
+        link: https://github.com/PoliAuth/PoliAuthenticator/releases/latest/download/PoliAuthenticator_MacOS.zip
+        img: /img/mac.png
+        multiple_buttons: true
+        buttons:
+        - title: Scarica il programma
+          link: https://github.com/PoliAuth/PoliAuthenticator/releases/latest/download/PoliAuthenticator_MacOS.zip
+      - title: PoliAuth per macOS
+        lang: en
+        desc: Download the zip file
+        link: https://github.com/PoliAuth/PoliAuthenticator/releases/latest/download/PoliAuthenticator_MacOS.zip
+        img: /img/mac.png
+        multiple_buttons: true
+        buttons:
+        - title: Download the program
+          link: https://github.com/PoliAuth/PoliAuthenticator/releases/latest/download/PoliAuthenticator_MacOS.zip
+  - Title: poliauth
+    divided: true
+    items:
+      - title: Linux e codice sorgente
+        lang: it
+        desc: Segui il readme dal source per installare su linux
+        link: https://github.com/PoliAuth/PoliAuthenticator/
+        img: /img/linux.png
+        multiple_buttons: true
+        buttons:
+        - title: Vai al codice sorgente
+          link: https://github.com/PoliAuth/PoliAuthenticator/
+      - title: Linux and source code
+        lang: en
+        desc: Follow the readme from source code to install on linux
+        link: https://github.com/PoliAuth/PoliAuthenticator/
+        img: /img/linux.png
+        multiple_buttons: true
+        buttons:
+        - title: Go to source code
+          link: https://github.com/PoliAuth/PoliAuthenticator/
+  - Title: poliauth
+    divided: true
+    dividers:
+      - name: Estensioni per browser (da installare in aggiunta al programma)
+        lang: it
+      - name: Browser extensions (to install on top of the program)
+        lang: en
+    items:
+      - title: Firefox
+        lang: it
+        desc: Semplicemente installa l'estensione dallo store, dopo aver installato il programma qui sopra
+        link: https://addons.mozilla.org/it/firefox/addon/poliauthenticator-webextension/
+        img: /img/firefox.png
+        multiple_buttons: true
+        buttons:
+        - title: Scarica Estensione
+          link: https://addons.mozilla.org/it/firefox/addon/poliauthenticator-webextension/
+      - title: Firefox
+        lang: en
+        desc: Just install the extension from the store, after having installed the program above
+        link: https://addons.mozilla.org/it/firefox/addon/poliauthenticator-webextension/
+        img: /img/firefox.png
+        multiple_buttons: true
+        buttons:
+        - title: Download Extension
+          link: https://addons.mozilla.org/it/firefox/addon/poliauthenticator-webextension/
+      - title: Chrome (e altri)
+        lang: it
+        desc: Scarica il file zip, estrailo e segui <a href="https://docs.polinetwork.org/#/it/projects/unpacked_extensions">questa guida</a>, dopo aver installato il programma qui sopra
+        link: https://github.com/PoliAuth/PoliAuthenticator/releases/latest/download/WebExtension.zip
+        img: /img/chrome.png
+        multiple_buttons: true
+        buttons:
+        - title: Scarica Estensione
+          link: https://github.com/PoliAuth/PoliAuthenticator/releases/latest/download/WebExtension.zip
+      - title: Chrome (& others)
+        lang: en
+        desc: Download the zip file, extract it and follow <a href="https://docs.polinetwork.org/#/en/projects/unpacked_extensions">this guide</a>, after having installed the program above
+        link: https://github.com/PoliAuth/PoliAuthenticator/releases/latest/download/WebExtension.zip
+        img: /img/chrome.png
+        multiple_buttons: true
+        buttons:
+        - title: Download Extension
+          link: https://github.com/PoliAuth/PoliAuthenticator/releases/latest/download/WebExtension.zip
+  - Title: materials
+    items:
+      - link: https://polinetwork.org/materials/
         redirect: true
+  - Title: webeepsync
+    items:
+      - title: WeBeepSync per Windows
+        lang: it
+        desc: Scarica il file zip, estrai l'installer, fai doppio click e aspetta che finisca
+        link: https://github.com/toto04/webeep-sync/releases/latest/download/WeBeep.Sync.Windows.Setup.zip
+        img: /img/win.png
+        multiple_buttons: true
+        buttons:
+        - title: Scarica Installer
+          link: https://github.com/toto04/webeep-sync/releases/latest/download/WeBeep.Sync.Windows.Setup.zip
+      - title: WeBeepSync for Windows
+        lang: en
+        desc: Download the zip file, extract the installer, double click and wait for it to finish
+        link: https://github.com/toto04/webeep-sync/releases/latest/download/WeBeep.Sync.Windows.Setup.zip
+        img: /img/win.png
+        multiple_buttons: true
+        buttons:
+        - title: Download Installer
+          link: https://github.com/toto04/webeep-sync/releases/latest/download/WeBeep.Sync.Windows.Setup.zip
+      - title: WeBeepSync per macOS
+        lang: it
+        desc: Scarica il file dmg dalla guida e seguila
+        link: https://github.com/toto04/webeep-sync#macOS
+        img: /img/mac.png
+        multiple_buttons: true
+        buttons:
+        - title: Vai alla guida
+          link: https://github.com/toto04/webeep-sync#macOS
+      - title: WeBeepSync for macOS
+        lang: en
+        desc: Download the dmg file from the guide and follow it
+        link: https://github.com/toto04/webeep-sync#macOS-1
+        img: /img/mac.png
+        multiple_buttons: true
+        buttons:
+        - title: Go to guide
+          link: https://github.com/toto04/webeep-sync#macOS-1
+  - Title: webeepsync
+    divided: true
+    items:
+      - title: Linux e codice sorgente
+        lang: it
+        desc: Segui il readme dal source per installare su linux
+        link: https://github.com/toto04/webeep-sync
+        img: /img/linux.png
+        multiple_buttons: true
+        buttons:
+        - title: Vai al codice sorgente
+          link: https://github.com/toto04/webeep-sync
+      - title: Linux and source code
+        lang: en
+        desc: Follow the readme from source code to install on linux
+        link: https://github.com/toto04/webeep-sync
+        img: /img/linux.png
+        multiple_buttons: true
+        buttons:
+        - title: Go to source code
+          link: https://github.com/toto04/webeep-sync
