@@ -1,0 +1,8 @@
+rules:
+ - allowed_clubs:
+   - name: Club di Ingegneria Gestionale
+     groups:
+       - Corsi di Studi di Ingegneria Gestionale
+   - name: Dynamis PRC - Polimi Reparto Corse
+     groups:
+       - Corso di Studi di Ingegneria Meccanica 
