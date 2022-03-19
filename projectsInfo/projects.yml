@@ -415,3 +415,7 @@ projects:
         buttons:
         - title: Go to source code
           link: https://github.com/toto04/webeep-sync
+  - Title: wifi_linux
+    items:
+      - link: https://github.com/PoliNetworkOrg/WiFiLinux
+        redirect: true

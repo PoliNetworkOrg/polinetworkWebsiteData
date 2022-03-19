@@ -461,3 +461,13 @@
         desc: Every other platform we're on
         link: https://linktr.ee/hubofstudentactivities
         img: /img/web.svg
+  - Title: polimimarket
+    items:
+      - link: Il Mercatino del Polimi [BETA]
+        platform: TG
+        redirect: true
+  - Title: kitchen
+    items:
+      - link: Cucina & Cocktails - PoliNetwork 🍽
+        platform: TG
+        redirect: true
