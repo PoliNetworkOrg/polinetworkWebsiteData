@@ -128,13 +128,13 @@ staff:
     roles:
       - id: c4
         nomination-date: 2019-10-29
-        expiration-date: 3000-01-01
+        expiration-date: 2021-04-26
   - name: Letizia Bosco
     nickname: LetiBos
     roles:
       - id: c5
         nomination-date: 2019-10-29
-        expiration-date: 3000-01-01
+        expiration-date: 2021-04-26
   - name: Matteo Vitelli
     nickname: MatteoVitelli
     roles:
@@ -161,13 +161,15 @@ staff:
     roles:
       - id: c11
         nomination-date: 2020-09-01
-        expiration-date: 3000-01-01
+        expiration-date: 2021-09-27
   - name: Laurens Lanzillo
     nickname: laurens_lanzillo
     roles:
       - id: c12
         nomination-date: 2019-10-29
-        expiration-date: 2022-05-31
+        expiration-date: 2021-04-26
+      - id: c12
+        nomination-date: 2022-06-03
   - name: Andrea Corcella
     nickname: andre_crc
     roles:
@@ -178,13 +180,15 @@ staff:
     roles:
       - id: c14
         nomination-date: 2019-10-29
-        expiration-date: 3000-01-01
+        expiration-date: 2021-04-26
   - name: Giovanni Oteri
     nickname: Gioteri
     roles:
       - id: c15
         nomination-date: 2019-10-29
-        expiration-date: 2022-06-03
+        expiration-date: 2021-04-26
+      - id: c15
+        nomination-date: 2022-06-03
   - name: Giada Martinoia
     nickname: Giada_Martinoia
     roles:
@@ -215,15 +219,14 @@ staff:
     roles:
       - id: c22
         nomination-date: 2021-03-16
-        expiration-date: 2021-03-16
       - id: c22        
-        nomination-date: 2021-03-16
+        nomination-date: 2022-03-23
   - name: Pier Ombrini
     nickname: PierOmbrini
     roles:
       - id: c23
         nomination-date: 2020-11-13
-        expiration-date: 3000-01-01
+        expiration-date: 2021-06-01
   - name: Mirko de Vita
     nickname: deet98
     roles:
@@ -252,7 +255,7 @@ staff:
     roles:
       - id: c8
         nomination-date: 2019-10-29
-        expiration-date: 3000-01-01
+        expiration-date: 2021-04-26
   - name: Andrea Zito
     nickname: andreakr0
     roles:
@@ -293,7 +296,6 @@ staff:
     roles:
       - id: c1
         nomination-date: 2022-01-03
-        expiration-date: 3000-01-01
     nickname: babovic_jovana
     roles:
       - id: c11
