@@ -88,6 +88,7 @@ staff:
     roles:
       - id: b2
         nomination-date: 2021-06-09
+        expiration-date: 2022-02-16
       - id: c10
         nomination-date: 2021-06-04
   - name: Diego Aldarese
@@ -214,6 +215,9 @@ staff:
     roles:
       - id: c22
         nomination-date: 2021-03-16
+        expiration-date: 2021-03-16
+      - id: c22        
+        nomination-date: 2021-03-16
   - name: Pier Ombrini
     nickname: PierOmbrini
     roles:
@@ -290,6 +294,15 @@ staff:
       - id: c1
         nomination-date: 2022-01-03
         expiration-date: 3000-01-01
+    nickname: babovic_jovana
+    roles:
+      - id: c11
+        nomination-date: 2021-10-19
+        expiration-date: 2022-03-01
+    nickname: kerneltrick
+    roles:
+      - id: c11
+        nomination-date: 2022-02-23
 roles:
   - id: a
     titles:
