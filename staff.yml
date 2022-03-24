@@ -296,11 +296,13 @@ staff:
     roles:
       - id: c1
         nomination-date: 2022-01-03
+  - name: Jovana Babović
     nickname: babovic_jovana
     roles:
       - id: c11
         nomination-date: 2021-10-19
         expiration-date: 2022-03-01
+  - name: Francesco Puddu
     nickname: kerneltrick
     roles:
       - id: c11
