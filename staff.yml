@@ -169,7 +169,7 @@ staff:
         nomination-date: 2019-10-29
         expiration-date: 2021-04-26
       - id: c12
-        nomination-date: 2022-06-03
+        nomination-date: 2021-06-03
   - name: Andrea Corcella
     nickname: andre_crc
     roles:
@@ -188,7 +188,7 @@ staff:
         nomination-date: 2019-10-29
         expiration-date: 2021-04-26
       - id: c15
-        nomination-date: 2022-06-03
+        nomination-date: 2021-06-03
   - name: Giada Martinoia
     nickname: Giada_Martinoia
     roles:
