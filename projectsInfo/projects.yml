@@ -269,7 +269,7 @@ projects:
         buttons:
         - title: Download Installer
           link: https://github.com/PoliAuth/PoliAuthInstaller/raw/main/distWin-x64/PoliAuth_Installer.exe
-      - title: PoliAuth for macOS
+      - title: PoliAuth per macOS
         lang: it
         desc: Scarica il file zip
         link: https://github.com/PoliAuth/PoliAuthenticator/releases/latest/download/PoliAuthenticator_MacOS.zip
@@ -278,7 +278,7 @@ projects:
         buttons:
         - title: Scarica il programma
           link: https://github.com/PoliAuth/PoliAuthenticator/releases/latest/download/PoliAuthenticator_MacOS.zip
-      - title: PoliAuth per macOS
+      - title: PoliAuth for macOS
         lang: en
         desc: Download the zip file
         link: https://github.com/PoliAuth/PoliAuthenticator/releases/latest/download/PoliAuthenticator_MacOS.zip
@@ -337,21 +337,21 @@ projects:
       - title: Chrome (e altri)
         lang: it
         desc: Scarica il file zip, estrailo e segui <a href="https://docs.polinetwork.org/#/it/projects/unpacked_extensions">questa guida</a>, dopo aver installato il programma qui sopra
-        link: https://github.com/PoliAuth/PoliAuthenticator/releases/latest/download/WebExtension.zip
+        link: https://github.com/PoliAuth/PoliAuthenticator/releases/latest/download/PoliAuthenticatorWebExtension.zip
         img: /img/chrome.png
         multiple_buttons: true
         buttons:
         - title: Scarica Estensione
-          link: https://github.com/PoliAuth/PoliAuthenticator/releases/latest/download/WebExtension.zip
+          link: https://github.com/PoliAuth/PoliAuthenticator/releases/latest/download/PoliAuthenticatorWebExtension.zip
       - title: Chrome (& others)
         lang: en
         desc: Download the zip file, extract it and follow <a href="https://docs.polinetwork.org/#/en/projects/unpacked_extensions">this guide</a>, after having installed the program above
-        link: https://github.com/PoliAuth/PoliAuthenticator/releases/latest/download/WebExtension.zip
+        link: https://github.com/PoliAuth/PoliAuthenticator/releases/latest/download/PoliAuthenticatorWebExtension.zip
         img: /img/chrome.png
         multiple_buttons: true
         buttons:
         - title: Download Extension
-          link: https://github.com/PoliAuth/PoliAuthenticator/releases/latest/download/WebExtension.zip
+          link: https://github.com/PoliAuth/PoliAuthenticator/releases/latest/download/PoliAuthenticatorWebExtension.zip
   - Title: materials
     items:
       - link: https://polinetwork.org/materials/

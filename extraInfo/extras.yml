@@ -471,3 +471,8 @@
       - link: Cucina & Cocktails - PoliNetwork 🍽
         platform: TG
         redirect: true
+  - Title: 3dprint
+    items:
+      - link: Stampa 3D - PoliNetwork
+        platform: TG
+        redirect: true
