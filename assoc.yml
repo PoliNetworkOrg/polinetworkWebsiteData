@@ -55,7 +55,7 @@ assoc:
             link: https://instagram.com/studenti.indipendenti.polimi?igshid=1ht6a4hfk0mau
           - title: Mail
             img: /img/mail.svg
-            link: studentiindipendentipolimi@gmail.com
+            link: mailto:studentiindipendentipolimi@gmail.com
       - lang: en
         desc: >
           Studenti Indipendenti is a group of Politecnico's students, trying to implement an alternative idea of university that defends students' rights and that is 100% independent from external parties and lobbies. Through student representation and activities that we do we work outside and inside the university governance to protect the right to study, improve students' conditions also by a psycologichal side and make the university years more serene by bringing proposals that arise from a confrontation with the students. During the academic year we also organize many cultural activities and events to allow students to disconnect from their studies and revive the nature university's nature: a place for aggregation and socializing as well as teaching and training. Not just university: we have always been committed to environmental, LGBTQ +, feminists, anti-racists issues and much more. If you have the desire and ideas to make Polimi a better place, contact us!
@@ -68,7 +68,7 @@ assoc:
             link: https://instagram.com/studenti.indipendenti.polimi?igshid=1ht6a4hfk0mau
           - title: Mail
             img: /img/mail.svg
-            link: studentiindipendentipolimi@gmail.com
+            link: mailto:studentiindipendentipolimi@gmail.com
   - Title: 	Svoltastudenti
     image: /img/svolta.png
     items:
@@ -93,7 +93,7 @@ assoc:
             link: https://t.me/infopolimi
           - title: Mail
             img: /img/mail.svg
-            link: info@svoltastudenti.it
+            link: mailto:info@svoltastudenti.it
           - title: Profilo Linkedin
             img: /img/linkedin.png
             link: https://www.linkedin.com/company/svolta-studenti
@@ -121,7 +121,7 @@ assoc:
             link: https://t.me/infopolimi
           - title: Mail
             img: /img/mail.svg
-            link: info@svoltastudenti.it
+            link: mailto:info@svoltastudenti.it
           - title: Linkedin Profile
             img: /img/linkedin.png
             link: https://www.linkedin.com/company/svolta-studenti
@@ -305,3 +305,44 @@ assoc:
           - title: Instagram
             img: /img/ig.svg
             link: https://www.instagram.com/polifoniapolimi/
+  - Title: MESA - EESTEC
+    image: /img/mesa.png
+    items:
+      - lang: it
+        desc: >
+          MESA (Milan Engineering Student Association) è un'associazione del Politecnico di Milano, fondata nel 2016, che raccoglie studenti di tutti i settori dell'ingegneria, di tutte le età, dalle matricole agli ex-allievi. Siamo il local branch di un'associazione europea chiamata EESTEC: attualmente conta 57 università partner in 27 diversi paesi! Cerchiamo di essere qualcosa di diverso dalla routine quotidiana, un luogo dove ogni studente può sentirsi a casa, imparare cose nuove, lavorare con altre persone e viaggiare in tutta Europa, uscendo dalla solita prospettiva attraverso cui si guarda l'università, considerandoci amici prima che soci. Il nostro obiettivo è quello di dare ai nostri soci e agli studenti del Politecnico la possibilità di vivere nuove esperienze, che possano essere utili sia per la loro carriera accademica che per la loro crescita personale, organizzando eventi locali e internazionali. Cerchiamo di stare sempre al passo con i tempi e le tendenze e organizziamo eventi per tutti, concentrandoci sia sulle hard che sulle soft skills. Se sei interessato al nostro modo instancabile ed entusiasta di affrontare la vita, scopri di più su di noi nei link qui sotto!
+        buttons:
+          - title: Facebook
+            img: /img/fb.svg
+            link: https://www.facebook.com/eestecmilan/
+          - title: Instagram
+            img: /img/ig.svg
+            link: https://www.instagram.com/eestec.lcmilan.mesa/
+          - title: Sito Web
+            img: /img/web.svg
+            link: https://mi.eestec.it/
+          - title: Profilo Linkedin
+            img: /img/linkedin.png
+            link: https://www.linkedin.com/company/eesteclcmilan/
+          - title: Mail
+            img: /img/mail.svg
+            link: mailto:eestec.milano@gmail.com
+      - lang: en
+        desc: >
+          MESA (Milan Engineering Student Association) is an association of Politecnico di Milano founded in 2016 gathering students from all Engineering fields and all ages, from freshmen to alumni. We are the local branch of a European association called EESTEC that currently counts around 57 member universities in 27 countries. We try to be something different from the daily routine, a place where every student can feel at home, learn new things, work with other people and travel all around Europe, breaking away from the usual perspective through which University is looked at and considering us friends before associates. Our aim is to give our members and the students of Politecnico the chance to live new experiences, which can be useful both for their academic career and for their personal growth, by organizing local and international events. We try to always keep up with times and trends and organize events for everyone, focusing on both hard and soft skills. If you are interested in our restless and highly enthusiastic way of facing life, find out more about us on the links below!
+        buttons:
+          - title: Facebook
+            img: /img/fb.svg
+            link: https://www.facebook.com/eestecmilan/
+          - title: Instagram
+            img: /img/ig.svg
+            link: https://www.instagram.com/eestec.lcmilan.mesa/
+          - title: Sito Web
+            img: /img/web.svg
+            link: https://mi.eestec.it/
+          - title: Profilo Linkedin
+            img: /img/linkedin.png
+            link: https://www.linkedin.com/company/eesteclcmilan/
+          - title: Mail
+            img: /img/mail.svg
+            link: mailto:eestec.milano@gmail.com
