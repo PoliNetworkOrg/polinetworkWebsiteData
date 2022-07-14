@@ -17,6 +17,7 @@ staff:
     roles:
       - id: a
         nomination-date: 2020-09-14
+        expiration-date: 2022-03-31
         #expiration-date only necessary if the role expired before his natural term
       - id: b3
         nomination-date: 2018-01-01
@@ -70,7 +71,7 @@ staff:
         nomination-date: 2019-10-29
         expiration-date: 2021-04-26
   - name: Raif Muhammad
-    nickname: raif9
+    nickname: Raif9
     roles:
       - id: b1
         nomination-date: 2019-10-29
@@ -83,6 +84,8 @@ staff:
       - id: c0
         nomination-date: 2021-06-05
         expiration-date: 2022-06-05
+      - id: a
+        nomination-date: 2022-04-01
   - name: Fabrizio Vasconi
     nickname: fabrizio_vasconi
     roles:
@@ -156,6 +159,11 @@ staff:
     roles:
       - id: c9
         nomination-date: 2021-05-24
+  - name: Giovanni Zhang
+    nickname: NatsuZ
+    roles:
+      - id: c9
+        nomination-date: 2022-04-26
   - name: Marco di Gennaro
     nickname: Marcol_8
     roles:
@@ -204,6 +212,11 @@ staff:
     roles:
       - id: c18
         nomination-date: 2020-03-16
+  - name: Michele Perrone
+    nickname: Eigen_Mike
+    roles:
+      - id: c18
+        nomination-date: 2022-04-01
   - name: Bruna Lleshi
     nickname: Brumbrown
     roles:
