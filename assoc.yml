@@ -346,3 +346,26 @@ assoc:
           - title: Mail
             img: /img/mail.svg
             link: mailto:eestec.milano@gmail.com
+  - Title: Finance Club PoliMi
+    image: /img/starting-finance.jpg
+    items:
+      - lang: it
+        desc: >
+          Starting Finance Club PoliMi è un luogo di incontro per ragazzi e ragazze con la passione per la finanza e l'economia dove vengono organizzati eventi a tema ed attività pratiche per sviluppare nuove competenze ed ampliare il network di conoscenze all'interno dell'università. L'associazione fa parte di una rete di club distribuita sul territorio nazionale e gestita da Starting Finance, la più grande community finanziaria per millennials in Italia.
+        buttons:
+          - title: Profilo Linkedin
+            img: /img/linkedin.png
+            link: https://www.linkedin.com/company/starting-finance-clubpolimi/
+          - title: Instagram
+            img: /img/ig.svg
+            link: https://www.linkedin.com/company/starting-finance-clubpolimi/
+      - lang: en
+        desc: >
+          Starting Finance Club is the meeting point for boys and girls with an interest in economics and finance. Here, students can organize and participate to themed events and practical activities to develop new competences and expand their contacts in the university environment. The association is part of a network of clubs distributed throughout the country and headed by Starting Finance, the largest financial community targeting millennials in Italy.
+        buttons:
+          - title: Profilo Linkedin
+            img: /img/linkedin.png
+            link: https://www.linkedin.com/company/starting-finance-clubpolimi/
+          - title: Instagram
+            img: /img/ig.svg
+            link: https://www.linkedin.com/company/starting-finance-clubpolimi/
