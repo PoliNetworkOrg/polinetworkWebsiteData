@@ -320,6 +320,12 @@ staff:
     roles:
       - id: c11
         nomination-date: 2022-02-23
+  - name: Alice Carosi
+    nickname: alicecarosi
+    roles: 
+      - id: c10
+        nomination-date: 2022-09-05
+        interim: true
 roles:
   - id: a
     titles:
