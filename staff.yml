@@ -326,6 +326,11 @@ staff:
       - id: c10
         nomination-date: 2022-09-05
         interim: true
+  - name: Mercedes Alazraki
+    nickname: Mercy_Al
+    roles:
+      - id: c12
+        nomination-date: 2022-09-06
 roles:
   - id: a
     titles:
