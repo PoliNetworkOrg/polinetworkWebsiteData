@@ -419,3 +419,24 @@ projects:
     items:
       - link: https://github.com/PoliNetworkOrg/WiFiLinux
         redirect: true
+  - Title: GetAulePolimi
+    items:
+      - title: Web
+        lang: it
+        desc: A flask webapp to find free rooms at PoliMi, both in the Leonardo and the Bovisa campus. Select how much time you need it for, the campus, the date and off you go! You can filter by building simply clicking on the buildings on the map inside the page. You will see every available room for the day. Rooms that are free right now will blink green. You can sort them by building. Enjoy
+        link: http://aule-polimi.herokuapp.com/
+        img: /img/web.png
+        multiple_buttons: true
+        buttons:
+        - title: Source
+          link: https://github.com/frephs/GetAulePolimi
+      - title: Web
+        lang: en
+        desc: A flask webapp to find free rooms at PoliMi, both in the Leonardo and the Bovisa campus. Select how much time you need it for, the campus, the date and off you go! You can filter by building simply clicking on the buildings on the map inside the page. You will see every available room for the day. Rooms that are free right now will blink green. You can sort them by building. Enjoy
+        link: http://aule-polimi.herokuapp.com/
+        img: /img/web.png
+        multiple_buttons: true
+        buttons:
+        - title: Source
+          link: https://github.com/frephs/GetAulePolimi
+
