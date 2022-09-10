@@ -127,11 +127,19 @@ staff:
     roles:
       - id: c2
         nomination-date: 2021-06-08
+        expiration-date: 2022-09-09
+      - id: c2
+        nomination-date: 2022-09-10
+        interim: true
   - name: Piera Candita
     nickname: pieracandita
     roles:
       - id: c3
         nomination-date: 2021-06-02
+        expiration-date: 2022-09-09
+      - id: c3
+        nomination-date: 2022-09-10
+        interim: true
   - name: Marco Tintori
     nickname: MarcoTintori
     roles:
@@ -231,6 +239,10 @@ staff:
     roles:
       - id: c19
         nomination-date: 2021-05-24
+        expiration-date: 2022-09-09
+      - id: c19
+        nomination-date: 2022-09-10
+        interim: true
   - name: Alice Simionato
     nickname: Alice_Simionato
     roles:
@@ -322,6 +334,7 @@ staff:
     roles:
       - id: c1
         nomination-date: 2022-01-03
+        expiration-date: 2022-09-09
       - id: c1
         nomination-date: 2022-09-10
         interim: true
@@ -347,6 +360,12 @@ staff:
     roles:
       - id: c12
         nomination-date: 2022-09-06
+        interim: true
+  - name: Antonio Rizzitiello
+    nickname: arizziti
+    roles:
+      - id: c18
+        nomination-date: 2022-09-10
         interim: true
 roles:
   - id: a
