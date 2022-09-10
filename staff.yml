@@ -95,6 +95,9 @@ staff:
       - id: c23
         nomination-date: 2022-09-10
         interim: true
+      - id: b3
+        nomination-date: 2022-09-10
+        interim: true
   - name: Fabrizio Vasconi
     nickname: fabrizio_vasconi
     roles:
@@ -113,6 +116,9 @@ staff:
       - id: c21
         nomination-date: 2022-09-10
         interim: true
+      - id: b1
+        nomination-date: 2022-09-10
+        interim: true        
   - name: Gabriele Auriemma
     nickname: GabrieleAur98
     roles:
@@ -427,6 +433,12 @@ staff:
       - id: c4
         nomination-date: 2022-09-10
         interim: true
+  - name: Giulia La Ferla 
+    nickname: @bl_ackdragon
+    roles:
+      - id: b4
+        nomination-date: 2022-09-10
+        interim: true
 roles:
   - id: a
     titles:
@@ -458,6 +470,12 @@ roles:
         title: Delegato a "Comunicazione interna e crescita"
       - language: en
         title: Delegate to internal communication and growth
+  - id: b4
+    titles:
+      - language: it
+        title: Delegato a "Gesione Social"
+      - language: en
+        title: Social Media Manager        
   - id: c0
     titles:
       - language: it
