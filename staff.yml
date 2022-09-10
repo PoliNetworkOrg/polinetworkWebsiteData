@@ -86,6 +86,9 @@ staff:
         expiration-date: 2022-06-05
       - id: a
         nomination-date: 2022-04-01
+      - id: c0
+        nomination-date: 2022-09-10
+        interim: true
   - name: Fabrizio Vasconi
     nickname: fabrizio_vasconi
     roles:
@@ -101,6 +104,9 @@ staff:
         nomination-date: 2021-06-09
       - id: c21
         nomination-date: 2021-05-31
+      - id: c21
+        nomination-date: 2022-09-10
+        interim: true
   - name: Gabriele Auriemma
     nickname: GabrieleAur98
     roles:
@@ -207,6 +213,9 @@ staff:
     roles:
       - id: c17
         nomination-date: 2021-06-05
+      - id: c17
+        nomination-date: 2022-09-10
+        interim: true
   - name: Cecilia Marson
     nickname: Ceciliamarson
     roles:
@@ -234,6 +243,10 @@ staff:
         nomination-date: 2021-03-16
       - id: c22        
         nomination-date: 2022-03-23
+        expiration-date: 2022-09-09
+      - id: c22        
+        nomination-date: 2022-09-10
+        interim: true
   - name: Pier Ombrini
     nickname: PierOmbrini
     roles:
@@ -309,6 +322,9 @@ staff:
     roles:
       - id: c1
         nomination-date: 2022-01-03
+      - id: c1
+        nomination-date: 2022-09-10
+        interim: true
   - name: Jovana Babović
     nickname: babovic_jovana
     roles:
@@ -331,6 +347,7 @@ staff:
     roles:
       - id: c12
         nomination-date: 2022-09-06
+        interim: true
 roles:
   - id: a
     titles:
