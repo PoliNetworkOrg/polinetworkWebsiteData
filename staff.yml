@@ -97,7 +97,6 @@ staff:
         interim: true
       - id: b3
         nomination-date: 2022-09-10
-        interim: true
   - name: Fabrizio Vasconi
     nickname: fabrizio_vasconi
     roles:
@@ -117,8 +116,7 @@ staff:
         nomination-date: 2022-09-10
         interim: true
       - id: b1
-        nomination-date: 2022-09-10
-        interim: true        
+        nomination-date: 2022-09-10    
   - name: Gabriele Auriemma
     nickname: GabrieleAur98
     roles:
@@ -438,7 +436,6 @@ staff:
     roles:
       - id: b4
         nomination-date: 2022-09-10
-        interim: true
 roles:
   - id: a
     titles:
