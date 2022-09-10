@@ -89,6 +89,12 @@ staff:
       - id: c0
         nomination-date: 2022-09-10
         interim: true
+      - id: c15
+        nomination-date: 2022-09-10
+        interim: true
+      - id: c23
+        nomination-date: 2022-09-10
+        interim: true
   - name: Fabrizio Vasconi
     nickname: fabrizio_vasconi
     roles:
@@ -146,6 +152,12 @@ staff:
       - id: c4
         nomination-date: 2019-10-29
         expiration-date: 2021-04-26
+      - id: c5
+        nomination-date: 2022-09-10
+        interim: true
+      - id: c26
+        nomination-date: 2022-09-10
+        interim: true
   - name: Letizia Bosco
     nickname: LetiBos
     roles:
@@ -168,6 +180,9 @@ staff:
     roles:
       - id: c8
         nomination-date: 2021-05-07
+      - id: c8
+        nomination-date: 2022-09-10
+        interim: true        
   - name: Alessandro Baserga
     nickname: AlessandroBaserga
     roles:
@@ -241,6 +256,9 @@ staff:
         nomination-date: 2021-05-24
         expiration-date: 2022-09-09
       - id: c19
+        nomination-date: 2022-09-10
+        interim: true
+      - id: c27
         nomination-date: 2022-09-10
         interim: true
   - name: Alice Simionato
@@ -365,6 +383,48 @@ staff:
     nickname: arizziti
     roles:
       - id: c18
+        nomination-date: 2022-09-10
+        interim: true
+  - name: Francesca Speriani
+    nickname: fra01631
+    roles:
+      - id: c16
+        nomination-date: 2022-09-10
+        interim: true
+  - name: Matteo Fiorentino
+    nickname: teo009
+    roles:
+      - id: c20
+        nomination-date: 2022-09-10
+        interim: true
+  - name: Flavio Carta
+    nickname: flaviocarta
+    roles:
+      - id: c24
+        nomination-date: 2022-09-10
+        interim: true
+  - name: Mirko Calcaterra
+    nickname: MirkoCalcaterra
+    roles:
+      - id: c25
+        nomination-date: 2022-09-10
+        interim: true
+  - name: Camilla Massucci
+    nickname: Camillamas
+    roles:
+      - id: c6
+        nomination-date: 2022-09-10
+        interim: true 
+  - name: Yu Xingping Angela
+    nickname: angie_yxp
+    roles:
+      - id: c14
+        nomination-date: 2022-09-10
+        interim: true
+  - name: Giovanni Malausa 
+    nickname: giovannimalausa
+    roles:
+      - id: c4
         nomination-date: 2022-09-10
         interim: true
 roles:
@@ -542,6 +602,30 @@ roles:
         title: Responsabile admin di Nuclear Engineering
       - language: en
         title: Admin Manager of Nuclear Engineering
+  - id: c24
+    titles:
+      - language: it
+        title: Responsabile admin di Ingegneria Ambientale
+      - language: en
+        title: Admin Manager of Environmental and Land Planning Bachelor
+  - id: c25
+    titles:
+      - language: it
+        title: Responsabile admin di Geoinformatics Engineering
+      - language: en
+        title: Admin Manager of Geoinformatics Engineering
+  - id: c26
+    titles:
+      - language: it
+        title: Responsabile admin di Design del Prodotto
+      - language: en
+        title: Admin Manager of Product Design
+  - id: c27
+    titles:
+      - language: it
+        title: Responsabile admin di Progettazione dell architettura
+      - language: en
+        title: Admin Manager of Architectural Design
   - id: u
     titles:
       - language: it
