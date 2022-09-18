@@ -1,0 +1,65 @@
+---
+slug: 
+  type: string
+  required: true
+layout: 
+  type: string
+  required: true
+info:
+    titles:
+      - title:
+          type: string
+          required: true
+        lang:
+          type: string
+          required: true
+    img:
+      type: string
+      required: true
+    descriptions:
+      - description:
+          type: string
+          required: true
+        lang:
+          type: string
+          required: true
+    cards:
+        - names:
+          - name:
+              type: string
+              required: true
+            lang:
+              type: string
+              required: true
+          descriptions:
+          - description:
+              type: string
+              required: true
+            lang:
+              type: string
+              required: true
+          separator:
+            titles:
+              - title:
+                  type: string
+                  required: true
+                lang:
+                  type: string
+                  required: true
+          img:
+            type: string
+            required: true
+          style:
+            type: string
+            required: true
+          buttons: 
+            - names:
+              - name:
+                  type: string
+                  required: true
+                lang:
+                  type: string
+                  required: true
+              link:
+                type: string
+                required: true
