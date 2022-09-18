@@ -1,9 +1,0 @@
----
-title: Eventi PoliNetwork
-Author: NomeAutore
-Lang: it
-Img: /img/party.png
-link: https://polinetworkevents.github.io
-redirect: true
----
-Sito per gli eventi organizzati da PoliNetwork
