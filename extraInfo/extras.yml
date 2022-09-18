@@ -79,18 +79,6 @@
         desc: Canale telegram
         link: https://t.me/polimimemes/
         img: /img/tg.svg
-  - Title: studentipolimi
-    items:
-      - title: Instagram
-        lang: it
-        desc: Profilo principale
-        link: https://www.instagram.com/studenti.polimi/
-        img: /img/ig.svg
-      - title: Instagram
-        lang: en
-        desc: Main profile
-        link: https://www.instagram.com/studenti.polimi/
-        img: /img/ig.svg
   - Title: animemanga
     items:
       - title: Gruppo Anime & Manga
