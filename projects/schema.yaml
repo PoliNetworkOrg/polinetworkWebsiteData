@@ -2,9 +2,6 @@
 slug: 
   type: string
   required: true
-layout: 
-  type: string
-  required: true
 info:
     titles:
       - title:
@@ -23,9 +20,11 @@ info:
         lang:
           type: string
           required: true
+    instaLink:
+      type: string
     cards:
-        - names:
-          - name:
+        - titles:
+          - title:
               type: string
               required: true
             lang:
@@ -46,6 +45,8 @@ info:
                 lang:
                   type: string
                   required: true
+          platform:
+            type: string
           img:
             type: string
             required: true
