@@ -8,10 +8,12 @@ info:
         lang: en
   img: /img/webeepsync.png
   descriptions:
-      - description: WeBeep Sync è una semplice app, user-friendly e senza compromessi che serve per tenere sincronizzati tutti i tuoi file di WeBeep. Sviluppata da <a href="https://github.com/toto04">Tommaso Morganti</a>
+      - description: WeBeep Sync è una semplice app, user-friendly e senza compromessi che serve per tenere sincronizzati tutti i tuoi file di WeBeep.
         lang: it
-      - description: WeBeep Sync is a simple, user-friendly and uncompromising app to keep all your WeBeep files synchronized. Developed by <a href="https://github.com/toto04">Tommaso Morganti</a>
+      - description: WeBeep Sync is a simple, user-friendly and uncompromising app to keep all your WeBeep files synchronized.
         lang: en
+  author: Tommaso Morganti
+  author_link: https://github.com/toto04
   cards:
       - titles:
           - title: WeBeepSync per Windows
