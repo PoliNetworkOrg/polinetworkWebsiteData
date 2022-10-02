@@ -15,10 +15,8 @@ info:
       required: true
     author_link:
       type: string
-      required: true
     author:
       type: string
-      required: true
     descriptions:
       - description:
           type: string
