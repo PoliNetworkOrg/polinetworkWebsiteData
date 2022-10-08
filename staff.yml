@@ -432,7 +432,7 @@ staff:
         nomination-date: 2022-09-10
         interim: true
   - name: Giulia La Ferla 
-    nickname: @bl_ackdragon
+    nickname: bl_ackdragon
     roles:
       - id: b4
         nomination-date: 2022-09-10
