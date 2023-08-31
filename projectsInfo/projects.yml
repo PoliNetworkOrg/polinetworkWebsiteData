@@ -254,7 +254,7 @@ projects:
       - title: PoliAuth per Windows
         lang: it
         desc: Scarica l'installer, fai doppio click e aspetta che finisca. Ti dirà anche dove trovare il programma una volta installato. Puoi riavviare l'installer ogni tanto per ottenere sempre l'ultima versione
-        link: https://github.com/PoliAuth/PoliAuthInstaller/raw/main/distWin-x64/PoliAuth_Installer.exe
+        link: https://github.com/PoliAuth/PoliAuthInstaller/releases/download/v1.0.0/PoliAuth_Installer.exe
         img: /img/win.png
         multiple_buttons: true
         buttons:
@@ -263,7 +263,7 @@ projects:
       - title: PoliAuth for Windows
         lang: en
         desc: Download the installer, double click and wait for it to finish. It will also tell you where to find the program once installed. You can restart the installer every once in a while to always get the latest version
-        link: https://github.com/PoliAuth/PoliAuthInstaller/raw/main/distWin-x64/PoliAuth_Installer.exe
+        link: https://github.com/PoliAuth/PoliAuthInstaller/releases/download/v1.0.0/PoliAuth_Installer.exe
         img: /img/win.png
         multiple_buttons: true
         buttons:
