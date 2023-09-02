@@ -55,3 +55,11 @@ courses:
         language: it
       - title: Chemical
         language: en
+  - icon: fas fa-chart-line
+    ficon: fas fa-wallet
+    link: https://gitlab.com/polinetwork/Gestionale
+    titles:
+      - title: Gestionale
+        language: it
+      - title: Management Eng
+        language: en
