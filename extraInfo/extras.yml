@@ -11,10 +11,10 @@
         link: polimi.it/en/
         multiple_buttons: true
         buttons:
-        - title: Vai al source di PoliDL GUI
-          link: https://github.com/yuyu-19/PoliDL-GUI
-        - title: Vai al source di PoliDL GUI
-          link: https://github.com/yuyu-19/PoliDL-GUI
+          - title: Vai al source di PoliDL GUI
+            link: https://github.com/yuyu-19/PoliDL-GUI
+          - title: Vai al source di PoliDL GUI
+            link: https://github.com/yuyu-19/PoliDL-GUI
   - Title: spotted
     items:
       - title: Facebook
@@ -81,30 +81,9 @@
         img: /img/tg.svg
   - Title: animemanga
     items:
-      - title: Gruppo Anime & Manga
-        lang: it
-        desc:
-        link: Poli Anime & Manga
+      - link: Poli Anime & Manga
         platform: TG
-        img: /img/tg.svg
-      - title: Anime & Manga group
-        lang: en
-        desc:
-        link: Poli Anime & Manga
-        platform: TG
-        img: /img/tg.svg
-      - title: Gruppo Anime & Manga NSFW
-        lang: it
-        desc:
-        link: Poli Anime & Manga NSFW 🙈
-        platform: TG
-        img: /img/tg.svg
-      - title: Anime & Manga NSFW group
-        lang: en
-        desc:
-        link: Poli Anime & Manga NSFW 🙈
-        platform: TG
-        img: /img/tg.svg
+        redirect: true
   - Title: crypto
     items:
       - link: PoliNetwork Criptovalute
