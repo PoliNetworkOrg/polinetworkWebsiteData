@@ -83,7 +83,7 @@
     items:
       - link: Poli Anime & Manga
         platform: TG
-        img: /img/tg.svg
+        redirect: true
   - Title: crypto
     items:
       - link: PoliNetwork Criptovalute
