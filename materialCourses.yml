@@ -63,3 +63,11 @@ courses:
         language: it
       - title: Management Eng
         language: en
+    - icon: fas fa-hard-hat
+    ficon: fas fa-drafting-compass
+    link: https://gitlab.com/polinetwork/Gestionale
+    titles:
+      - title: Edile
+        language: it
+      - title: Construction
+        language: en
