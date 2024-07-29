@@ -240,11 +240,6 @@ projects:
   - Title: events
     items:
         link: https://polinetworkevents.github.io
-        redirect: true
-  - Title: elections
-    items:
-      - link: https://polinetworkelezioni.github.io
-        redirect: true
   - Title: examdisttool
     items:
       - link: https://github.com/PoliNetworkOrg/ExamDistributionTool
