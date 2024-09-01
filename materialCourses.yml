@@ -63,7 +63,7 @@ courses:
         language: it
       - title: Management Eng
         language: en
-    - icon: fas fa-hard-hat
+  - icon: fas fa-hard-hat
     ficon: fas fa-drafting-compass
     link: https://gitlab.com/polinetwork/Edile
     titles:
